@@ -27,3 +27,7 @@
   - isValid := verify(pk, msg, sig)
   - sign a hash pointer
   - Bitcoin: ECDSA, good randomness
+
+- Public key as indentity
+  - randomness
+  - observe activities
