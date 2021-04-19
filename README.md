@@ -42,5 +42,15 @@
   - protocol terminates and all correct nodes decide on the same val
   - this value must be proposed by some corret nodes
 
+- Consensus without ID
+  - hard to P2P
+  - Pseudonymity
+
+- transaction contains sign, pk, hash
+- honest nodes will extend the longest valid branch
+- double-spend probalitity decreases exponentially with # of confirmation
+  - common impl: 6
+
+
 
 
