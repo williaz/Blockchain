@@ -50,6 +50,19 @@
 - honest nodes will extend the longest valid branch
 - double-spend probalitity decreases exponentially with # of confirmation
   - common impl: 6
+- incentive
+  - block reward
+  - tranx fee
+- proof of work: in proportion to computing power
+  - hash puzzles: nonce-lucky
+  - difficuct to cmpt
+  - param cost: time~10min
+  - trivial to verify
+- proof of stake: ownership
+- 3 types od consensus
+  - value, state, rule
+- security of bc, value fo currency, health of mining eco-sys
+
 
 
 
