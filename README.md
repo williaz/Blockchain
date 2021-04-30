@@ -64,6 +64,7 @@
 - security of bc, value fo currency, health of mining eco-sys
 
 
-
+- Bitcoin: UTXO: unspent tranx output
+- Ethereum's account model: user balance
 
 
